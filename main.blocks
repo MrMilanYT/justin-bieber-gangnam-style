@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="X@[![.v1OdG@)@HXgyp}" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="O;@f`~0A{NB_K[u?tVO9"><value name="text"><shadow type="text" id="^.G-#cw.;A#Xw)0[fhPL"><field name="TEXT">Milan</field></shadow></value></block></statement></block><block type="pxt-on-start" id="=OqE!+V!{(w%*V7q?6c0" x="50" y="245"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="gJn?*0|+7a^e/=6YO?]3" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="9`U(@6L[ycW!eC]2oo)R"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_print_message" id="[FI6xbqoLDxi?PiNU+t5"><value name="text"><shadow type="text" id="R?I`tddT3Kkfi}TZ[`Vo"><field name="TEXT">me ❤️ youuu</field></shadow></value><next><block type="playMelody" id="?Cg%fiPr0FEGXiv{AJCI"><value name="melody"><shadow type="melody_editor" id=";^@(F1~2RcUYFDn$BcBt"><field name="melody">"A B C D E F G - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="RmPMyLignz#?uJ`t3Enu"><mutation min="40" max="500" label="Number" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></next></block></statement></block></xml>
